@@ -1,0 +1,1 @@
+if(var == avar && b != c || d < 4)
